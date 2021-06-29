@@ -1,0 +1,5 @@
+I am liking "HTML" more, however I did not do any of it on this assignment.
+I was not and still am not understanding how to get from the "terminal" to "GitHub", 
+I have looked up several youtube videos, and still feel lost.
+My approach was to take it one step at a time, the pieces are not sticking with me.
+I used Youtube, freecodecamp, TA's quick questions, google.
